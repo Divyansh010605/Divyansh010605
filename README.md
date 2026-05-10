@@ -1,95 +1,53 @@
-````md
-<div align="center">
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Divyansh
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=900&lines=Divyansh;AI%2FML+Engineer;Building+Intelligent+Systems;Training+Models+%26+Shipping+Products" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer;Full+Stack+Developer;Building+Intelligent+Systems;Learning+%E2%86%92+Building+%E2%86%92+Scaling" />
+</p>
 
-<br>
+<p align="center">
+  <a href="https://github.com/Divyansh010605">
+    <img src="https://img.shields.io/github/followers/Divyansh010605?label=Followers&style=flat-square&color=0e75b6" />
+  </a>
 
-<img src="https://img.shields.io/badge/status-building-black?style=for-the-badge&logo=github&logoColor=00ffae" />
-<img src="https://img.shields.io/badge/focus-AI%2FML-black?style=for-the-badge&logo=openai&logoColor=00ffae" />
-<img src="https://img.shields.io/badge/stack-Full%20Stack-black?style=for-the-badge&logo=vercel&logoColor=00ffae" />
-
-<br><br>
-
-```console
-> initialize profile
-
-[✓] AI systems
-[✓] Full stack engineering
-[✓] LLM applications
-[✓] Scalable backend systems
-
-status: online
-````
-
-</div>
+  <img src="https://komarev.com/ghpvc/?username=Divyansh010605&label=Profile+Views&color=0e75b6&style=flat-square" />
+</p>
 
 ---
 
-# ~/about_me
+## > whoami
 
-```python
-class Divyansh:
-
-    def __init__(self):
-        self.role = "AI/ML Engineer"
-
-        self.interests = {
-            "AI": [
-                "LLMs",
-                "Generative AI",
-                "Computer Vision",
-                "Deep Learning",
-                "RAG Pipelines"
-            ],
-
-            "Engineering": [
-                "Backend Systems",
-                "Scalable APIs",
-                "Distributed Systems"
-            ]
-        }
-
-    def current_mission(self):
-        return "Building intelligent products with clean architecture."
+```bash
+Name: Divyansh
+Role: AI/ML Engineer
+Focus: Generative AI • LLMs • Backend Systems
+Status: Building cool things
+Location: India
 ```
 
 ---
 
-# ~/tech_stack
+## > tech_stack
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,pytorch,tensorflow,react,nextjs,nodejs,express,mongodb,mysql,docker,linux,git" />
-
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,pytorch,tensorflow,react,nextjs,nodejs,express,mongodb,mysql,docker,git,linux,vscode" />
+</p>
 
 ---
 
-# ~/system_status
+## > currently_working_on
 
-```yaml
-learning:
-  - advanced machine learning
-  - llm orchestration
-  - scalable system design
-
-building:
-  - ai-powered applications
-  - intelligent workflows
-  - modern developer experiences
-
-goal:
-  - engineer impactful AI systems
-```
+* AI-powered applications
+* LLM workflows & RAG pipelines
+* Scalable backend architectures
+* Full-stack intelligent systems
 
 ---
 
-# ~/featured_project
+## > featured_project
 
-## my-portfolio
+### my-portfolio
 
-Minimal portfolio engineered with modern UI principles and responsive architecture.
+Modern developer portfolio with minimal UI and responsive architecture.
 
 ```bash
 git clone https://github.com/Divyansh010605/my-portfolio
@@ -97,62 +55,54 @@ git clone https://github.com/Divyansh010605/my-portfolio
 
 ---
 
-# ~/github_analytics
+## > github_stats
 
-<div align="center">
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Divyansh010605&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Divyansh010605&show_icons=true&hide_border=true&bg_color=00000000&title_color=00ffae&text_color=ffffff&icon_color=00ffae" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyansh010605&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
+</p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyansh010605&layout=compact&hide_border=true&bg_color=00000000&title_color=00ffae&text_color=ffffff" />
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Divyansh010605&theme=black-ice&hide_border=true&stroke=00ffae&ring=00ffae&fire=00ffae&currStreakLabel=00ffae" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Divyansh010605&theme=tokyonight&hide_border=true&background=00000000" />
+</p>
 
 ---
 
-# ~/activity_graph
+## > contribution_graph
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Divyansh010605&bg_color=000000&color=00ffae&line=00ffae&point=ffffff&hide_border=true" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Divyansh010605&theme=tokyo-night&hide_border=true&bg_color=00000000" />
+</p>
 
 ---
 
-# ~/connect
+## > connect
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/Divyansh010605">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
 
-<a href="https://github.com/Divyansh010605">
-  <img src="https://skillicons.dev/icons?i=github" />
-</a>
+  <a href="https://linkedin.com/in/your-linkedin">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
 
-<a href="https://linkedin.com/in/your-linkedin">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="mailto:your-email@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-
-</div>
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
 
 ---
 
-<div align="center">
+<p align="center">
 
 ```txt
-while(alive) {
+while(alive){
     learn();
     build();
-    optimize();
-    repeat();
+    innovate();
 }
 ```
 
-</div>
-```
+</p>
