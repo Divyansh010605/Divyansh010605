@@ -1,108 +1,45 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Divyansh
+# Divyansh Khandelwal
+**AI/ML Engineer & Full-Stack Developer**
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer;Full+Stack+Developer;Building+Intelligent+Systems;Learning+%E2%86%92+Building+%E2%86%92+Scaling" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/Divyansh010605">
-    <img src="https://img.shields.io/github/followers/Divyansh010605?label=Followers&style=flat-square&color=0e75b6" />
-  </a>
-
-  <img src="https://komarev.com/ghpvc/?username=Divyansh010605&label=Profile+Views&color=0e75b6&style=flat-square" />
-</p>
+[LinkedIn](https://linkedin.com/in/divyansh-khandelwal-b208a82a1) | [GitHub](https://github.com/Divyansh010605)
 
 ---
 
-## > whoami
+## ⚙️ Engineering Focus
+I am an engineer focused on building intelligent, scalable systems. My work bridges the gap between machine learning models and production-ready full-stack applications. I specialize in Generative AI workflows, backend architectures, and deploying end-to-end ML pipelines.
 
-```bash
-Name: Divyansh
-Role: AI/ML Engineer
-Focus: Generative AI • LLMs • Backend Systems
-Status: Building cool things
-Location: India
-```
-
----
-
-## > tech_stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,pytorch,tensorflow,react,nextjs,nodejs,express,mongodb,mysql,docker,git,linux,vscode" />
-</p>
+## 🛠 Technical Arsenal
+- **AI & Machine Learning:** Python, PyTorch, TensorFlow, LLMs, RAG Pipelines
+- **Backend & Systems:** C++, Node.js, Express, RESTful APIs
+- **Frontend:** JavaScript, TypeScript, React, Next.js
+- **Infrastructure & Data:** Docker, Linux, MongoDB, MySQL, Git
 
 ---
 
-## > currently_working_on
+## 🚀 Featured Work
 
-* AI-powered applications
-* LLM workflows & RAG pipelines
-* Scalable backend architectures
-* Full-stack intelligent systems
+<!-- 
+HIRING MANAGER NOTE: Replace the bracketed text below with your two best AI or complex backend projects. 
+Choose projects that show system design, not just tutorial clones. 
+-->
 
----
+### [Insert Project Name: e.g., Scalable Document QA RAG Pipeline]
+* **Overview:** [One sentence explaining what the system does and the problem it solves.]
+* **Architecture:** [List the core tools used, e.g., FastAPI backend, PyTorch models, Pinecone Vector DB, deployed via Docker.]
+* **Key Achievement:** [List one metric or specific technical hurdle you overcame, e.g., "Implemented custom chunking strategy to improve retrieval accuracy by 15%."]
+* **[View Source Code](Link to your actual repository)**
 
-## > featured_project
-
-### my-portfolio
-
-Modern developer portfolio with minimal UI and responsive architecture.
-
-```bash
-git clone https://github.com/Divyansh010605/my-portfolio
-```
-
----
-
-## > github_stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Divyansh010605&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyansh010605&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Divyansh010605&theme=tokyonight&hide_border=true&background=00000000" />
-</p>
+### [Insert Project Name: e.g., Distributed Full-Stack Analytics Dashboard]
+* **Overview:** [One sentence explaining what the system does.]
+* **Architecture:** [e.g., Next.js frontend, Node.js/Express backend, MongoDB data layer.]
+* **Key Achievement:** [e.g., "Designed a responsive architecture optimized for real-time data ingestion."]
+* **[View Source Code](Link to your actual repository)**
 
 ---
 
-## > contribution_graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Divyansh010605&theme=tokyo-night&hide_border=true&bg_color=00000000" />
-</p>
-
----
-
-## > connect
-
-<p align="center">
-  <a href="https://github.com/Divyansh010605">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-
-  <a href="https://linkedin.com/in/your-linkedin">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-</p>
-
----
-
-<p align="center">
-
-```txt
-while(alive){
-    learn();
-    build();
-    innovate();
-}
-```
-
+## 📊 GitHub Analytics
+<!-- Keep this minimal. Just the top languages and basic stats to show activity, nothing flashy. -->
+<p align="left">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Divyansh010605&show_icons=true&theme=transparent&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyansh010605&layout=compact&theme=transparent&hide_border=true" />
 </p>
