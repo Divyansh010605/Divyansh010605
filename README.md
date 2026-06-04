@@ -131,11 +131,6 @@ Modern, responsive developer portfolio showcasing all AI/ML projects and experti
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Divyansh010605&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=00D9FF&icon_color=00D9FF" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyansh010605&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=00D9FF" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Divyansh010605&theme=tokyonight&hide_border=true&background=0d1117&stroke=00D9FF&fire=00D9FF&sideNums=00D9FF&currStreakNum=00D9FF" />
 </p>
 
