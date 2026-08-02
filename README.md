@@ -97,34 +97,33 @@ class AIEngineer:
 ## 🏆 Featured Projects
 
 ### 1. **AI-Enhanced Radiology Information System (RIS)**
-Comprehensive full-stack system for medical imaging analysis with Deep Learning model benchmarking
-- **Repository**: [RIS](https://github.com/Divyansh010605/RIS)
-- **Tech**: PyTorch, DenseNet, ResNet, Swin Transformer, React + Vite, FastAPI
-- **Impact**: Compares CNN vs Transformer architectures for X-ray & CT analysis 
+Full-stack Radiology Information System for X-ray & CT analysis, benchmarking CNN vs Transformer architectures for diagnostic support
+- **Repository**: [RIS](https://github.com/Divyansh010605/RIS) · **Live**: [ris-opal.vercel.app](https://ris-opal.vercel.app)
+- **Tech**: PyTorch, DenseNet, ResNet, Swin Transformer, React + Vite, Tailwind CSS
+- **Impact**: Comparative AI benchmarking module with per-pathology Accuracy/F1/AUC, plus a DICOM-to-PNG extraction pipeline for LIDC-IDRI CT slices
 
 ### 2. **Veritas AI – Fake News Detection & Verification System**
 End-to-end misinformation detection with explainable AI and fact cross-verification
 - **Repository**: [AI-Fake-News-Detection-V2.0](https://github.com/Divyansh010605/AI-Fake-News-Detection-V2.0)
 - **Tech**: DeBERTa v3, HuggingFace Transformers, Flask, XAI, Binary Classification
-- **Features**: DeBERTa fine-tuning, confusion matrix, ROC/PR curves, real-time inference
+- **Features**: Fine-tuned DeBERTa v3-base classifier (REAL vs FAKE), FP16 mixed-precision training, confusion matrix, ROC/PR curves
 
 ### 3. **Voice-Controlled Local AI Agent**
-Sophisticated voice assistant with speech-to-text, intent classification, and tool routing
+Voice assistant pipeline: speech-to-text → intent classification → human-in-the-loop confirmation → tool execution
 - **Repository**: [Voice-Controlled-Local-AI-Agent](https://github.com/Divyansh010605/Voice-Controlled-Local-AI-Agent)
-- **Tech**: Python, Ollama (Local LLM), Groq Whisper API, Streamlit, Intent Classification
-- **Pipeline**: Audio → STT → Intent Extraction → Human-in-the-Loop → Tool Execution
+- **Tech**: Python, Streamlit, Groq Whisper API, Ollama (local LLM)
+- **Features**: Compound command handling, sandboxed file operations, confirmation prompts before any file-modifying action
 
 ### 4. **Binance Futures Testnet Trading Bot**
-Lightweight CLI application for placing orders on Binance Futures with multiple order types
+Lightweight CLI for placing orders on Binance Futures Testnet (USDT-M)
 - **Repository**: [Binance-Futures-Testnet-Trading-Bot](https://github.com/Divyansh010605/Binance-Futures-Testnet-Trading-Bot)
-- **Tech**: Python, Click CLI, Rich, HMAC-SHA256, Binance API
-- **Features**: Market/Limit/Stop-Limit orders, structured logging, input validation
+- **Tech**: Python, Click, Rich, HMAC-SHA256 signing
+- **Features**: Market/Limit/Stop-Limit orders, rotating file logging, input validation on symbol/side/type/quantity/price
 
 ### 5. **My Portfolio**
-Modern, responsive developer portfolio showcasing all AI/ML projects and expertise
+Personal developer portfolio site — currently a fresh React + Vite scaffold, content in progress
 - **Repository**: [my-portfolio](https://github.com/Divyansh010605/my-portfolio)
-- **Tech**: JavaScript, Next.js, React, Responsive Design, Tailwind CSS
-- **Features**: Project showcase, minimal UI design, full-stack architecture
+- **Tech**: React, Vite, Tailwind CSS
 
 ---
 
@@ -190,5 +189,5 @@ Modern, responsive developer portfolio showcasing all AI/ML projects and experti
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Last%20Updated-June%202026-00D9FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Last%20Updated-August%202026-00D9FF?style=flat-square" />
 </p>
