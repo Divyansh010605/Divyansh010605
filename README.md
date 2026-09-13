@@ -156,7 +156,7 @@ Personal developer portfolio site — currently a fresh React + Vite scaffold, c
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Divyansh010605&theme=tokyonight&hide_border=true&background=0d1117&stroke=00D9FF&fire=00D9FF&sideNums=00D9FF&currStreakNum=00D9FF" />
+  <img src="https://streak-stats.demolab.com/?user=Divyansh010605&theme=tokyonight&hide_border=true&background=0d1117&stroke=00D9FF&fire=00D9FF&sideNums=00D9FF&currStreakNum=00D9FF" />
 </p>
 
 <p align="center">
