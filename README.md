@@ -118,7 +118,7 @@ class AIEngineer:
 
 ### 1. **AI-Enhanced Radiology Information System (RIS)**
 Full-stack Radiology Information System for X-ray & CT analysis, benchmarking CNN vs Transformer architectures for diagnostic support
-- **Repository**: [RIS](https://github.com/Divyansh010605/RIS) · 
+- **Repository**: [RIS](https://github.com/Divyansh010605/RIS)
 - **Tech**: PyTorch, DenseNet, ResNet, Swin Transformer, React + Vite, Tailwind CSS
 - **Impact**: Comparative AI benchmarking module with per-pathology Accuracy/F1/AUC, plus a DICOM-to-PNG extraction pipeline for LIDC-IDRI CT slices
 
@@ -159,9 +159,6 @@ Personal developer portfolio site — currently a fresh React + Vite scaffold, c
   <img src="https://streak-stats.demolab.com/?user=Divyansh010605&theme=tokyonight&hide_border=true&background=0d1117&stroke=00D9FF&fire=00D9FF&sideNums=00D9FF&currStreakNum=00D9FF" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Divyansh010605&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00D9FF&line=00D9FF&point=00D9FF" />
-</p>
 
 ---
 
