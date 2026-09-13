@@ -118,7 +118,7 @@ class AIEngineer:
 
 ### 1. **AI-Enhanced Radiology Information System (RIS)**
 Full-stack Radiology Information System for X-ray & CT analysis, benchmarking CNN vs Transformer architectures for diagnostic support
-- **Repository**: [RIS](https://github.com/Divyansh010605/RIS) · **Live**: [ris-opal.vercel.app](https://ris-opal.vercel.app)
+- **Repository**: [RIS](https://github.com/Divyansh010605/RIS) · 
 - **Tech**: PyTorch, DenseNet, ResNet, Swin Transformer, React + Vite, Tailwind CSS
 - **Impact**: Comparative AI benchmarking module with per-pathology Accuracy/F1/AUC, plus a DICOM-to-PNG extraction pipeline for LIDC-IDRI CT slices
 
