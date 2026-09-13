@@ -102,17 +102,17 @@ Full-stack Radiology Information System for X-ray & CT analysis, benchmarking CN
 - **Tech**: PyTorch, DenseNet, ResNet, Swin Transformer, React + Vite, Tailwind CSS
 - **Impact**: Comparative AI benchmarking module with per-pathology Accuracy/F1/AUC, plus a DICOM-to-PNG extraction pipeline for LIDC-IDRI CT slices
 
-### 2. **Veritas AI – Fake News Detection & Verification System**
+### 2. **RAGFlow Enterprise AI**
+Production-grade agentic RAG platform combining vector retrieval, SQL querying, and knowledge-graph exploration behind 9 specialized AI agents
+- **Repository**: [RAGFlow_Enterprise_AI](https://github.com/Divyansh010605/RAGFlow_Enterprise_AI)
+- **Tech**: FastAPI, React, Google Gemini, Qdrant, Neo4j, Redis, PostgreSQL, Docker Compose, Prometheus/Grafana
+- **Features**: Supervisor, planner, query-analyzer, hybrid BM25+vector RAG, SQL, knowledge-graph, evidence-scoring, critic, and response-synthesis agents; JWT auth with RBAC, prompt-injection screening, and full audit logging; dual-mode engine with an offline deterministic fallback
+
+### 3. **Veritas AI – Fake News Detection & Verification System**
 End-to-end misinformation detection with explainable AI and fact cross-verification
 - **Repository**: [AI-Fake-News-Detection-V2.0](https://github.com/Divyansh010605/AI-Fake-News-Detection-V2.0)
 - **Tech**: DeBERTa v3, HuggingFace Transformers, Flask, XAI, Binary Classification
 - **Features**: Fine-tuned DeBERTa v3-base classifier (REAL vs FAKE), FP16 mixed-precision training, confusion matrix, ROC/PR curves
-
-### 3. **Voice-Controlled Local AI Agent**
-Voice assistant pipeline: speech-to-text → intent classification → human-in-the-loop confirmation → tool execution
-- **Repository**: [Voice-Controlled-Local-AI-Agent](https://github.com/Divyansh010605/Voice-Controlled-Local-AI-Agent)
-- **Tech**: Python, Streamlit, Groq Whisper API, Ollama (local LLM)
-- **Features**: Compound command handling, sandboxed file operations, confirmation prompts before any file-modifying action
 
 ### 4. **Binance Futures Testnet Trading Bot**
 Lightweight CLI for placing orders on Binance Futures Testnet (USDT-M)
@@ -120,7 +120,13 @@ Lightweight CLI for placing orders on Binance Futures Testnet (USDT-M)
 - **Tech**: Python, Click, Rich, HMAC-SHA256 signing
 - **Features**: Market/Limit/Stop-Limit orders, rotating file logging, input validation on symbol/side/type/quantity/price
 
-### 5. **My Portfolio**
+### 5. **Voice-Controlled Local AI Agent**
+Voice assistant pipeline: speech-to-text → intent classification → human-in-the-loop confirmation → tool execution
+- **Repository**: [Voice-Controlled-Local-AI-Agent](https://github.com/Divyansh010605/Voice-Controlled-Local-AI-Agent)
+- **Tech**: Python, Streamlit, Groq Whisper API, Ollama (local LLM)
+- **Features**: Compound command handling, sandboxed file operations, confirmation prompts before any file-modifying action
+
+### 6. **My Portfolio**
 Personal developer portfolio site — currently a fresh React + Vite scaffold, content in progress
 - **Repository**: [my-portfolio](https://github.com/Divyansh010605/my-portfolio)
 - **Tech**: React, Vite, Tailwind CSS
@@ -189,5 +195,5 @@ Personal developer portfolio site — currently a fresh React + Vite scaffold, c
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Last%20Updated-August%202026-00D9FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Last%20Updated-September%202026-00D9FF?style=flat-square" />
 </p>
